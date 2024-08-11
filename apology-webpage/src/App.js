@@ -59,7 +59,7 @@ function App() {
           <img src="WhatsApp Image 2024-08-11 at 17.41.11.jpeg" alt="Memory 11" className="gallery-img" />
           <img src="WhatsApp Image 2024-08-11 at 17.41.13 (1).jpeg" alt="Memory 12" className="gallery-img" />
           <img src="WhatsApp Image 2024-08-11 at 17.41.13 (2).jpeg" alt="Memory 13" className="gallery-img" />
-          <img src="WhatsApp Image 2024-08-11 at 17.41.13 (3).jpeg" alt="Memory 14" className="gallery-img" />
+          <img src="WhatsApp Image 2024-08-11 at 17.41.14.jpeg" alt="Memory 14" className="gallery-img" />
         </div>
       </section>
 
