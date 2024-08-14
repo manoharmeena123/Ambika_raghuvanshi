@@ -1,7 +1,8 @@
 body {
   margin: 0;
   font-family: 'Helvetica Neue', sans-serif;
-  background: linear-gradient(45deg, #ff4e50, #f9d423); /* Gradient from red to yellow for a warm effect */
+  background:  url('/public/premium_photo-1673306778968-5aab577a7365.avif') no-repeat center center fixed; /* Added background image and transparency to the gradient */
+  background-size: cover; /* Make sure the background image covers the entire screen */
   color: #ffffff; /* White text for better readability */
   display: flex;
   justify-content: center;
@@ -14,7 +15,7 @@ body {
 .app {
   text-align: center;
   padding: 20px;
-  background: rgba(0, 0, 0, 0.7); /* Semi-transparent dark background */
+  background: rgba(0, 0, 0, 0.5); /* Increased transparency for a more subtle dark background */
   border-radius: 15px;
   width: 90%;
   max-width: 1200px;
@@ -138,7 +139,7 @@ body {
 }
 
 .footer {
-  background-color: #ff4e50; /* Matching red for footer background */
+  background-color: rgba(255, 78, 80, 0.8); /* Added transparency to match the background */
   padding: 20px;
   border-radius: 0 0 15px 15px;
   margin-top: 20px;
